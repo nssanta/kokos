@@ -1,0 +1,2 @@
+python -m spacy download ru_core_news_sm
+#nltk.download('punkt')  # Загрузкpа необходимых данных для токенизации
